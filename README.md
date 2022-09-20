@@ -37,19 +37,10 @@ Die folgende Tabelle zeigt alle im Projekt verwendeten Hardwarekomponenten inklu
  (40 Stück) |
 | Netzteil | AC-Adapter
  (Output: 5V, 3A) | Leicke | https://www.otto.de/p/leicke-ull-netzteil-15w-5v-3a-netzteil-besonders-leicht-kurzschluss-ueberspannungs-und-ueberhitzungsschutz-S0C1G0DZ/#variationId=S0C1G0DZBSMT | 8,99 € |
-| Netzteil-Adapter | Sara fragen |
- |
- |
- |
+| Netzteil-Adapter | Sara fragen | Platzhalter | Platzhalter | Platzhalter |
 | Micro-USB-Kabel | Micro-USB-Kabel | Liour | https://amzn.to/3qPDoVF | 4,99 € |
-| Stromkabel LED | Sara |
- |
- |
- |
-| HUB75-Verbindungskabel | Sara |
- |
- |
- |
+| Stromkabel LED | Sara | Platzhalter | Platzhalter | Platzhalter |
+| HUB75-Verbindungskabel | Sara | Platzhaltey | Platzhalter | Platzhalter |
 | DC-Buchse | DC Buchse Stecker 5,5 x 2,1mm | LitaElek | https://www.amazon.de/dp/B019HAC6V4/ | 6,49 €
  (5 Paar) |
 |
