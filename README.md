@@ -10,7 +10,7 @@ TODOs:
 -   Links einfügen
 -   Logo?
 
-## Projektzel
+## Projektziel
 
 Die Ziele dieses Projekts lassen sich in zwei Unterziele unterteilen, die im Folgenden beschrieben werden.
 
