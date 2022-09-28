@@ -1,13 +1,12 @@
 # Projektdokumentation Urban Compass
 
-(TODO)
+(Hinweis: die Dokumentation befindet sich noch in Arbeit)
+
+TODOs:
 
 -   Inhaltsverzeichnis (als letztes)
 -   Bilder in Ordner bilder doku laden
 -   Bilder Referenzieren in Markdown referenzieren
--   Alles auf Projektdoku übertragen
--   Entscheiden, welche Kapitel für technische Doku wirklich relevant
-    -   Kapitel Fachkonzeption können mm nach raus oder in einen Satz gepackt werden
 -   Links einfügen
 -   Logo?
 
@@ -52,7 +51,7 @@ Die folgende Tabelle zeigt alle im Projekt verwendeten Hardwarekomponenten inklu
 -   Lötkolben
 -   Schrumpfschlauch
 
-## Die genaue Beschreibung der Zusammensetzung der Komponenten findet sich in Kapitel Elektronik-Bauteile.
+Die genaue Beschreibung der Zusammensetzung der Komponenten findet sich in Kapitel Elektronik-Bauteile.
 
 ## Fachkonzeption
 
