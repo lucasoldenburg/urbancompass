@@ -2,6 +2,11 @@
 
 <img src="https://github.com/lucasoldenburg/urbancompass/blob/main/bilder%20doku/Logo.png" width=300 align=right>
 
+**Table of Content**
+
+- [Projektziel](#Projektziel]
+  * [Proof of Concept Grüne-Welle-Assistent mit ESP32](#Proof of Concept Grüne-Welle-Assistent mit ESP32)
+
 (Hinweis: die Dokumentation befindet sich noch in Arbeit)
 
 TODOs:
