@@ -61,7 +61,7 @@ Zusätzlich wurde im Rahmen des Projekts folgendes Werkzeug verwendet:
 -   Lötkolben
 -   Schrumpfschlauch
 
-Die genaue Beschreibung der Zusammensetzung der Komponenten findet sich in Kapitel Elektronik-Bauteile.
+Die genaue Beschreibung der Zusammensetzung der Komponenten findet sich in Kapitel [Elektronik-Bauteile](#Hardwareentwicklung-–-Elektronik-Bauteile).
 
 ## Fachkonzeption
 
