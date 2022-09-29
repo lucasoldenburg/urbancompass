@@ -67,7 +67,7 @@ Eine ausführlich Fachkonzeption befindet sich in der Projektdokumentation
 
 <img src="https://github.com/lucasoldenburg/urbancompass/blob/main/bilder%20doku/Bezirke.png" width=500>
 
-<img src="https://github.com/lucasoldenburg/urbancompass/blob/main/bilder%20doku/Sehensw%C3%BCrdigkeiten.png" width= 500 align=tight>
+<img src="https://github.com/lucasoldenburg/urbancompass/blob/main/bilder%20doku/Sehensw%C3%BCrdigkeiten.png" width= 500 align=right>
 
 \<img src=" " height= \>
 
