@@ -83,7 +83,7 @@ Eine ausführlich Fachkonzeption befindet sich in der Projektdokumentation
     -   Jumper-Kabel physisch schwierig einzustecken (ggf. schlechte Qualität)
     -   Mapping-Beschriftung auf LED leicht anders als in Doku (<https://github.com/mrfaptastic/ESP32-HUB75-MatrixPanel-I2S-DMA>): Nummerierung beginnend mit „0“ statt mit „1“
 
-\<img src=" " height= \>
+<img src="https://github.com/lucasoldenburg/urbancompass/blob/main/bilder%20doku/1-Verbindung%20ESP.png" width=500 >
 
 #### 2. Verbindung ESP mit Laptop über Micro-USB-Kabel
 
@@ -91,7 +91,7 @@ Eine ausführlich Fachkonzeption befindet sich in der Projektdokumentation
 -   Test der LED 32x32 mit „Simple Test Shapes“ (<https://github.com/mrfaptastic/ESP32-HUB75-MatrixPanel-I2S-DMA/tree/master/examples/1_SimpleTestShapes>) à fehlerfrei
 -   Noch ohne Netzteil, Stromversorgung LED nur über ESP à LED-Anzeige zu schwach
 
-\<img src=" " height= \>
+<img src="https://github.com/lucasoldenburg/urbancompass/blob/main/bilder%20doku/2-Verbindung%20ESP.png" width=500 >
 
 #### 3. Test Stromversorgung: ESP mit LED 32x32
 
@@ -100,7 +100,7 @@ Eine ausführlich Fachkonzeption befindet sich in der Projektdokumentation
 -   Verbindung ESP über Micro-USB-Kabel an Laptop
 -   Anzeige-Test ok, aber: Floating-Ground-Problem aufgetreten à Flackern des LED 32x32
 
-\<img src=" " height= \>
+<img src="" width=500 >
 
 #### 4. Test Stromversorgung: ESP mit LED 32x32 + LED 64x32
 
@@ -109,7 +109,7 @@ Eine ausführlich Fachkonzeption befindet sich in der Projektdokumentation
 -   Verbindung ESP über Micro-USB-Kabel an Laptop
 -   Test ok, aber: Floating-Ground-Problem aufgetreten à Flackern des LED 64x32
 
-\<img src=" " height= \>
+<img src="" width=500 >
 
 #### 5. Test Anzeige: ESP mit LED 32x32 + LED 64x32
 
@@ -117,7 +117,7 @@ Eine ausführlich Fachkonzeption befindet sich in der Projektdokumentation
 -   HUB75-Verbindungskabel für Verbindung LED 32x32 zu LED 64x32
 -   Test beider LEDs zusammengeschaltet, erneut nach „Simple Test Shapes“ (<https://github.com/mrfaptastic/ESP32-HUB75-MatrixPanel-I2S-DMA/tree/master/examples/1_SimpleTestShapes>) à fehlerhafte Anzeige
 
-\<img src=" " height= \>
+<img src="" width=500 >
 
 #### 6. Test Anzeige: ESP mit LED 32x32
 
@@ -129,7 +129,7 @@ Eine ausführlich Fachkonzeption befindet sich in der Projektdokumentation
 -   Verbindung: ESP à LED 64x32
 -   Test mit „Bouncing Squares“ (<https://github.com/mrfaptastic/ESP32-HUB75-MatrixPanel-I2S-DMA/tree/master/examples/BouncingSquares>) à in Ordnung, fehlerfreie Anzeige
 
-\<img src=" " height= \>
+<img src="" width=500 >
 
 #### 8. Test Anzeige: ESP mit LED 64x32 + LED 32x32
 
@@ -140,7 +140,7 @@ Eine ausführlich Fachkonzeption befindet sich in der Projektdokumentation
 -   Anzeige auf LED 64x32 fehlerfrei wie zuvor
 -   Anzeige auf LED 32x32 fehlerhaft: erkannt als LED 64x32, deshalb nur halbe Anzeige, sonst korrekte Anzeige
 
-\<img src=" " height= \>
+<img src="" width=500 >
 
 #### 9. Test Anzeige: ESP mit LED 64x32 + LED 32x32 ohne separaten Ground
 
@@ -153,7 +153,7 @@ Eine ausführlich Fachkonzeption befindet sich in der Projektdokumentation
 -   Finale Komponenten-Konstellation
 -   Schaltplan: siehe letztes Bild
 
-\<img src=" " height= \>
+<img src="" width=500 >
 
 ### Hardwareentwicklung – 3D-Druck Gehäuse
 
@@ -209,12 +209,12 @@ Im Folgenden werden die Entwicklungsschritte des Grüne Welle Assistenten erläu
 -   Matrix einfarbig füllen mit *fill color(),* Farbe grün
 -   Spaltenweise überschreiben mit „leeren Pixeln“, um Füllung schrittweise zu entfernen
 
-\<img src=" " height= \>
+<img src="" width=500 >
 
 -   Matrix erneut einfarbig füllen mit *fill color()*, Farbe rot
 -   Spaltenweise überschreiben mit „leeren Pixeln“, um Füllung schrittweise zu entfernen
 
-\<img src=" " height= \>
+<img src="" width=500 >
 
 #### Anzeige Fahrrad-Symbol
 
@@ -222,9 +222,8 @@ Im Folgenden werden die Entwicklungsschritte des Grüne Welle Assistenten erläu
 -   Anschließend Konvertierung in HEX-Code für Verwendung in Arduino-Code (<https://github.com/mrfaptastic/ESP32-HUB75-MatrixPanel-I2S-DMA/blob/master/examples/BitmapIcons/bmp2hex.py>)
 -   Zeichnen des Fahrrad-Symbols auf LEDs mit drawBitmap()
 
-\<img src=" " height= \>
-
-\<img src=" " height= \>
+<img src="" width=500 >
+<img src="" width=500 >
 
 ### Urban Compass
 
@@ -235,9 +234,8 @@ Folgende Entwicklungsschritte wurden im Rahmen der Softwareentwicklung des urban
 -   Zeichnen der Inhalte mit *drawXbm565()*: Draw-Funktion von <https://github.com/mrfaptastic/ESP32-HUB75-MatrixPanel-I2S-DMA/blob/master/examples/BitmapIcons/BitmapIcons.ino>
 -   Ergebnis: fehlerhafte Anzeige (siehe folgende Bilder)
 
-\<img src=" " height= \>
-
-\<img src=" " height= \>
+<img src="" width=500 >
+<img src="" width=500 >
 
 -   auf *drawBitmap()* Funktion der Adafruit GFX Library gewechselt
 -   Änderung:
@@ -247,27 +245,25 @@ Folgende Entwicklungsschritte wurden im Rahmen der Softwareentwicklung des urban
 -   Code-Anpassung: Iteration durch verschiedene Bitmaps nacheinander à Wechsel der Anzeige
 -   Ergebnis: Kategorien Uhrzeit, Sehenswürdigkeiten und Bezirke werden fehlerfrei angezeigt (siehe folgende Bilder)
 
-\<img src=" " height= \>
+<img src="" width=500 >
 
 -   Anzeige der Kategorie ÖPNV noch fehlerhaft: Fehler bei der Konvertierung zu Schwarz-Weiss
 
-\<img src=" " height= \>
+<img src="" width=500 >
 
 -   Erstellung Bitmaps für einzelne Elemente der ÖPNV-Anzeige (farbige Umrandungen, Schrift und Pfeile)
 -   Einzelne Bitmaps der farbigen Umrandungen und Linienkennung sowie Pfeile mit *drawBitmap()* in einzelnen Farben übereinander gezeichnet, um mehrfarbiges Bild zusammen zu setzen
 -   Ergebnis: auch fehlerfreie Anzeige der Kategorie ÖPNV
 
-\<img src=" " height= \>
+<img src="" width=500 >
 
 ## Projektergebnis
 
 Im Folgenden wird das Projektergebnis als Bildergalerie dargestellt. Beide Projektziele, sowohl die Umsetzung des PoC Grüne-Welle-Assistenten als auch der urban compass, konnten vollständig erreicht werden. Der PoC gilt als erfolgreich umgesetzt, da alle in Kapitel 3.1 definierten Schritte im Rahmen des Abnahmeszenarios fehlerfrei durchgeführt werden können. Auch die Anzeige der Infotainment-Inhalte im Rahmen des „urban compass“ ist vollständig (alle Kategorien und Inhalte) und fehlerfrei (korrekte Anzeige), weshalb auch dieses Ziel als erreicht gilt.
 
-\<img src=" " height= \>
-
-\<img src=" " height= \>
-
-\<img src=" " height= \>
+<img src="" width=500 >
+<img src="" width=500 >
+<img src="" width=500 >
 
 ## Ausblick
 
