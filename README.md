@@ -15,7 +15,7 @@
   * [Hardwareentwicklung – Elektronik-Bauteile](#Hardwareentwicklung-–-Elektronik-Bauteile)
   * [Hardwareentwicklung – 3D-Druck Gehäuse](#Hardwareentwicklung-–-3D-Druck-Gehäuse)
 - [Softwareentwicklung](#Softwareentwicklung)
-  * [Grüne-Welle-Assistent](#Grüne-Welle-Assistent-(Software)
+  * [Grüne-Welle-Assistent](#Grüne-Welle-Assistent-(Software))
   * [Urban Compass](#Urban-Compass-(Software))
 - [Projektergebnis](#Projektergebnis)
 - [Ausblick](#Ausblick)
