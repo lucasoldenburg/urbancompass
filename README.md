@@ -49,7 +49,7 @@ Die folgende Tabelle zeigt alle im Projekt verwendeten Hardwarekomponenten inklu
 | DC-Buchse              | DC Buchse Stecker 5,5 x 2,1mm                           | LitaElek                | https://www.amazon.de/dp/B019HAC6V4/                                                                                                                                 | 6,49 € (5 Paar)   |
 | -                      | -                                                       | -                       | -                                                                                                                                                                    | Summe: ???        |
 
-## Zusätzlich wurde im Rahmen des Projekts folgendes Werkzeug verwendet:
+Zusätzlich wurde im Rahmen des Projekts folgendes Werkzeug verwendet:
 
 -   3D-Drucker für die Case (Anycubic Mega X Drucker)\*\*  
     \*\*(<https://de.anycubic.com/products/mega-x?_pos=14&_sid=d5e44558a&_ss=r)>)
