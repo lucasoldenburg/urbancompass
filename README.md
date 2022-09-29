@@ -1,6 +1,6 @@
 # Projektdokumentation Urban Compass
 
-![image](https://github.com/lucasoldenburg/urbancompass/blob/main/bilder%20doku/Logo.png width="100" height="100")
+![image](https://github.com/lucasoldenburg/urbancompass/blob/main/bilder%20doku/Logo.png, width="100" height="100")
 
 (Hinweis: die Dokumentation befindet sich noch in Arbeit)
 
