@@ -1,5 +1,6 @@
 # Projektdokumentation Urban Compass
 
+![image](https://github.com/lucasoldenburg/urbancompass/blob/main/bilder%20doku/Logo.png)
 (Hinweis: die Dokumentation befindet sich noch in Arbeit)
 
 TODOs:
