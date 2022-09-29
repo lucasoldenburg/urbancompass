@@ -15,8 +15,8 @@
   * [Hardwareentwicklung – Elektronik-Bauteile](#Hardwareentwicklung-–-Elektronik-Bauteile)
   * [Hardwareentwicklung – 3D-Druck Gehäuse](#Hardwareentwicklung-–-3D-Druck-Gehäuse)
 - [Softwareentwicklung](#Softwareentwicklung)
-  * [Grüne-Welle-Assistent](#Grüne-Welle-Assistent)
-  * [Urban Compass](#Urban-Compass)
+  * [Grüne-Welle-Assistent](#Grüne-Welle-Assistent-(Software)
+  * [Urban Compass](#Urban-Compass-(Software))
 - [Projektergebnis](#Projektergebnis)
 - [Ausblick](#Ausblick)
 
@@ -216,7 +216,7 @@ Im Rahmen des Projekts wurde mithilfe eines 3D-Druckers ein Gehäuse konzipiert 
 
 Dieses Kapitel umfasst eine Beschreibung über die einzelnen Schritte der Softwareentwicklung. Dabei werden die einzelnen Entwicklungsschritte des Grüne Welle Assistenten und des urban compass im Groben erläutert, um ein generelles Verständnis für das gewählte Vorgehen zu vermitteln. Der vollständige Code kann aus der technischen Dokumentation bzw. dem GitHub Repository zum Projekt unter https://github.com/lucasoldenburg/urbancompass entnommen werden.
 
-### Grüne-Welle-Assistent
+### Grüne-Welle-Assistent (Software)
 
 Im Folgenden werden die Entwicklungsschritte des Grüne Welle Assistenten erläutert.
 
@@ -242,7 +242,7 @@ Im Folgenden werden die Entwicklungsschritte des Grüne Welle Assistenten erläu
 <img src="https://github.com/lucasoldenburg/urbancompass/blob/main/bilder%20doku/Anzeige%20Bike%201.png" width=500 >
 <img src="https://github.com/lucasoldenburg/urbancompass/blob/main/bilder%20doku/Anzeige%20Bike%202.png" width=500 >
 
-### Urban Compass
+### Urban Compass (Software)
 
 Folgende Entwicklungsschritte wurden im Rahmen der Softwareentwicklung des urban compass durchgeführt:
 
