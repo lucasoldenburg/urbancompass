@@ -65,7 +65,7 @@ Eine ausführlich Fachkonzeption befindet sich in der Projektdokumentation
 
 ### Urban Compass – Konzeptskizzen
 
-\<img src="https://github.com/lucasoldenburg/urbancompass/blob/main/bilder%20doku/Bezirke.png"\>
+<img src="https://github.com/lucasoldenburg/urbancompass/blob/main/bilder%20doku/Bezirke.png"\>
 
 \<img src=" " width= 600 \>
 
