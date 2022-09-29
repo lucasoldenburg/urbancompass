@@ -1,6 +1,6 @@
 # Projektdokumentation Urban Compass
 
-<img src="https://github.com/lucasoldenburg/urbancompass/blob/main/bilder%20doku/Logo.png" width=200 align=right\>
+<img src="https://github.com/lucasoldenburg/urbancompass/blob/main/bilder%20doku/Logo.png" width=200 align=right>
 
 (Hinweis: die Dokumentation befindet sich noch in Arbeit)
 
@@ -65,7 +65,7 @@ Eine ausführlich Fachkonzeption befindet sich in der Projektdokumentation
 
 ### Urban Compass – Konzeptskizzen
 
-<img src="https://github.com/lucasoldenburg/urbancompass/blob/main/bilder%20doku/Bezirke.png">
+<img src="https://github.com/lucasoldenburg/urbancompass/blob/main/bilder%20doku/Bezirke.png" width=500>
 
 \<img src=" " width= 600>
 
