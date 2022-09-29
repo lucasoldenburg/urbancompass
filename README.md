@@ -16,7 +16,7 @@
   * [Hardwareentwicklung – 3D-Druck Gehäuse](#Hardwareentwicklung-–-3D-Druck-Gehäuse)
 - [Softwareentwicklung](#Softwareentwicklung)
   * [Grüne-Welle-Assistent](#Grüne-Welle-Assistent)
-  * [Urban Compass](#Urban Compass)
+  * [Urban Compass](#Urban-Compass)
 - [Projektergebnis](#Projektergebnis)
 - [Ausblick](#Ausblick)
 
