@@ -48,7 +48,7 @@ Die folgende Tabelle zeigt alle im Projekt verwendeten Hardwarekomponenten inklu
 | Stromkabel LED         | HUB75-Power Cable                                       | Adafruit Industries LLC | Im Lieferumfang der LED-Matrix enthalten                                                                                                                             | -                 |
 | HUB75-Verbindungskabel | HUB75-Data Cable                                        | Adafruit Industries LLC | Im Lieferumfang der LED-Matrix enthalten                                                                                                                             | -                 |
 | DC-Buchse              | DC Buchse Stecker 5,5 x 2,1mm                           | LitaElek                | https://www.amazon.de/dp/B019HAC6V4/                                                                                                                                 | 6,49 € (5 Paar)   |
-| -                      | -                                                       | -                       | -                                                                                                                                                                    | Summe: ???        |
+| -                      | -                                                       | -                       | -                                                                                                                                                                    | Summe: 138,43 €        |
 
 Zusätzlich wurde im Rahmen des Projekts folgendes Werkzeug verwendet:
 
