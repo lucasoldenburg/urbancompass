@@ -20,16 +20,6 @@
 - [Projektergebnis](#Projektergebnis)
 - [Ausblick](#Ausblick)
 
-(Hinweis: die Dokumentation befindet sich noch in Arbeit)
-
-TODOs:
-
--   Inhaltsverzeichnis (als letztes)
--   Bilder in Ordner bilder doku laden
--   Bilder in Markdown referenzieren
--   Links einfügen
--   Logo?
-
 ## Projektziel
 
 Die Ziele dieses Projekts lassen sich in zwei Unterziele unterteilen, die im Folgenden beschrieben werden.
