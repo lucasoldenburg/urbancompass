@@ -66,12 +66,9 @@ Eine ausführlich Fachkonzeption befindet sich in der Projektdokumentation
 ### Urban Compass – Konzeptskizzen
 
 <img src="https://github.com/lucasoldenburg/urbancompass/blob/main/bilder%20doku/Bezirke.png" width=500>
-
-<img src="https://github.com/lucasoldenburg/urbancompass/blob/main/bilder%20doku/Sehensw%C3%BCrdigkeiten.png" width= 500 align=right>
-
-\<img src=" " height= \>
-
-\<img src=" " height= \>
+<img src="https://github.com/lucasoldenburg/urbancompass/blob/main/bilder%20doku/Sehensw%C3%BCrdigkeiten.png" width= 500>
+<img src="https://github.com/lucasoldenburg/urbancompass/blob/main/bilder%20doku/%C3%96PNV.png" width= 500>
+<img src="https://github.com/lucasoldenburg/urbancompass/blob/main/bilder%20doku/Uhrzeit.png" width= 500>
 
 Eine ausführlich Fachkonzeption befindet sich in der Projektdokumentation
 
