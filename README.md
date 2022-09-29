@@ -6,6 +6,8 @@
 
 - [Projektziel](#Projektziel)
   * [Proof of Concept Grüne-Welle-Assistent mit ESP32](#Proof-of-Concept-Grüne-Welle-Assistent-mit-ESP32)
+  * [Urban Compass](#Urban-Compass)
+- [Hardware](#Hardware)
 
 (Hinweis: die Dokumentation befindet sich noch in Arbeit)
 
