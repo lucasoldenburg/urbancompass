@@ -59,9 +59,8 @@ Die genaue Beschreibung der Zusammensetzung der Komponenten findet sich in Kapit
 
 ### Grüne-Welle-Assistent
 
-Siehe Leezenflow
-
-Eine ausführlich Fachkonzeption befindet sich in der Projektdokumentation
+Siehe [Leezenflow](https://github.com/bCyberGmbH/leezenflow-doku)
+Eine ausführlich Fachkonzeption befindet sich in der [Projektdokumentation](https://github.com/lucasoldenburg/urbancompass/blob/main/Projektdokumentation.pdf).
 
 ### Urban Compass – Konzeptskizzen
 
@@ -70,7 +69,7 @@ Eine ausführlich Fachkonzeption befindet sich in der Projektdokumentation
 <img src="https://github.com/lucasoldenburg/urbancompass/blob/main/bilder%20doku/%C3%96PNV.png" width= 500>
 <img src="https://github.com/lucasoldenburg/urbancompass/blob/main/bilder%20doku/Uhrzeit.png" width= 500>
 
-Eine ausführlich Fachkonzeption befindet sich in der Projektdokumentation
+Eine ausführlich Fachkonzeption befindet sich in der [Projektdokumentation](https://github.com/lucasoldenburg/urbancompass/blob/main/Projektdokumentation.pdf).
 
 ## Projektvorgehen
 
