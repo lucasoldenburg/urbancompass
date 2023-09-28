@@ -26,7 +26,7 @@ Die Ziele dieses Projekts lassen sich in zwei Unterziele unterteilen, die im Fol
 
 ### Proof of Concept Grüne-Welle-Assistent mit ESP32
 
-Im Rahmen des [„Leezenflow“-Projekts](https://github.com/bCyberGmbH/leezenflow-doku/) entwickelte die Firma bCyber GmbH im Auftrag der Stadt Münster (Stabsstelle Smart City) einen prototypischen Grüne-Welle-Assistenten. Dieser unterstützt Fahrradfahrende dabei, die eigene Geschwindigkeit anzupassen, um grüne Ampelphasen optimal zu nutzen und somit an weniger Ampeln anhalten zu müssen (s. auch [Projektseite in Münster](www.leezenflow.de)). Ziel dieses Projekts ist die Erarbeitung eines Proof of Concept (PoC), das belegt, dass der Grüne-Welle-Assistent ebenso mit abweichender Hardware unter Verwendung eines ESP32 als Mirkocontroller umgesetzt werden kann.
+Im Rahmen des [„Leezenflow“-Projekts](https://github.com/bCyberGmbH/leezenflow-doku/) entwickelte die [Firma bCyber GmbH](https://www.bcyber.de/) im Auftrag der Stadt Münster ([Stabsstelle Smart City](https://smartcity.ms/)) einen prototypischen Grüne-Welle-Assistenten. Dieser unterstützt Fahrradfahrende dabei, die eigene Geschwindigkeit anzupassen, um grüne Ampelphasen optimal zu nutzen und somit an weniger Ampeln anhalten zu müssen (s. auch [Projektseite in Münster](www.leezenflow.de)). Ziel dieses Projekts ist die Erarbeitung eines Proof of Concept (PoC), das belegt, dass der Grüne-Welle-Assistent ebenso mit abweichender Hardware unter Verwendung eines ESP32 als Mirkocontroller umgesetzt werden kann.
 
 ### Urban Compass
 
